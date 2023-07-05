@@ -1,0 +1,14 @@
+cohere
+openai
+qdrant-client
+
+langchain
+transformers
+streamlit-audiorecorder
+pypdf
+
+Pillow
+PyPDF2
+
+streamlit-chat
+streamlit-pills
